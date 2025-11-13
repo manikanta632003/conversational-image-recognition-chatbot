@@ -1,0 +1,11 @@
+node_modules/
+client/node_modules/
+uploads/
+.env
+.DS_Store
+dist/
+client/dist/
+*.log
+users.json
+saved-chats/
+
