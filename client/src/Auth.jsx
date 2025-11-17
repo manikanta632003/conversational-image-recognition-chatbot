@@ -121,7 +121,7 @@ function Auth({ onLogin }) {
   return (
     <div className="auth-container">
       <div className="auth-box">
-        <h1>🤖 AI Image Recognition Chatbot</h1>
+        <h1>🤖 Conversational Image Recognition Chatbot</h1>
         <h2>{isLogin ? 'Login' : 'Register'}</h2>
         
         {error && <div className="error-message">{error}</div>}
